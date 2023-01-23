@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello world!");
         //Test
         System.out.println("Task 7");
+        System.out.println("Change 2");
     }
 }
